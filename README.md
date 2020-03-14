@@ -1,29 +1,15 @@
-# border-radius
+# Border-radius Previewer
 
-## Project setup
-```
-npm install
-```
+**Tier:** 1-Beginner
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The border-radius property can have multiple values changed. Preview how the shape looks while changing these values.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## User Stories
 
-### Run your tests
-```
-npm run test
-```
+-   [ x ] User can see a box which has a `border-radius` property applied to it
+-   [ x ] User can change the 4 `border-radius` values that are applied to the box (top-left, top-right, bottom-left, bottom-right)
+-   [ x ] User can copy the resulting CSS to the clipboard
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Bonus features
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-   [ x ] User can change all 8 possible values of the border-radius in order to create a complex shape
